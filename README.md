@@ -5,4 +5,4 @@ Following things were done in this project:
 - Developed and implemented Trading Strategy Using Z-Scores
 - Optimized Entry and Exit Points to maximize profits
 
-for more details refer to docx. file
+For more details, refer to the text cells of the main file.
